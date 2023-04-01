@@ -1,0 +1,13 @@
+body {
+    background-color: #1f2033;
+    font-family: monospace;
+    color: white;
+    text-align: center;
+    margin: 11.8%
+}
+
+
+a, a:hover {
+    text-decoration: none;
+    color: skyblue;
+}
