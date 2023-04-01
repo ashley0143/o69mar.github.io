@@ -4,7 +4,7 @@ const URL_ARRAY = [
     "https://autumn.revolt.chat/avatars/7l93silFHScuNvDSAypMIfTy-KbfAZGr-EYwjQaaaY?max_side=256",
 ];
 
-const imageComponent = document.getElementById("randomImage");
+const imageComponent = document.getElementById("daimg");
 
 const indexToUse =
     Math.floor(
