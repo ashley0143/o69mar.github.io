@@ -11,3 +11,14 @@ a, a:hover {
     text-decoration: none;
     color: skyblue;
 }
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: whitesmoke;
+        color: black;
+    }
+
+    a, a:hover {
+        color: blue;
+    }
+}
